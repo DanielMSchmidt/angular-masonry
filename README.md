@@ -1,3 +1,10 @@
+# WIP
+
+As response to [#62](https://github.com/passy/angular-masonry/issues/62).
+Idea: load in batches and let them fade in
+
+
+
 # AngularJS Masonry Directive [![Build Status](https://travis-ci.org/passy/angular-masonry.png)](https://travis-ci.org/passy/angular-masonry) [![Dependency Status](https://gemnasium.com/passy/angular-masonry.png)](https://gemnasium.com/passy/angular-masonry) [![Code Climate](https://codeclimate.com/github/passy/angular-masonry.png)](https://codeclimate.com/github/passy/angular-masonry)
 
 [Homepage](http://passy.github.io/angular-masonry)
